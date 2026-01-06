@@ -1,0 +1,6 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" role="img" aria-label="Shamshiry logo">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="20" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="#111">Shamshiry</text>
+  <path d="M300 35 q40 25 0 50" stroke="#0aa1ff" stroke-width="6" fill="none"/>
+</svg>
